@@ -12,7 +12,7 @@ Technologies Used
 Set Up the Database:
  Create a MySQL database.
  Import travel(1).sql.
- Update config.php with your database credentials.
+ Update db.php with your database credentials.
 Start the Server:
  If using XAMPP, place the project folder in htdocs.
  Start Apache and MySQL services from the XAMPP control panel.
